@@ -11,7 +11,7 @@ This file performs question inference.
 - model: LLM to use
 - reasoning: whether to force reasoning prompt
 
-## semantic_similarity.py
+### semantic_similarity.py
 Compute the semantic sets among the generated and true answers.
 #### Args
 - temp: temperature of the generated responses used when running generate.py
@@ -20,7 +20,7 @@ Compute the semantic sets among the generated and true answers.
 - oneshot: whether to use a oneshot entailment approach
 - entailment: which model to use for entailment, gpt or deberta
 
-## correctness.py
+### correctness.py
 Compute whether the response(s) to a question is correct post clustering of responses by meaning.
 #### Args
 - temp: temperature of the generated responses used when running generate.py
@@ -31,7 +31,7 @@ Compute whether the response(s) to a question is correct post clustering of resp
 - checker: which model to use for assessing correctness, gpt vs deberta
 
 
-## confidence.py
+### confidence.py
 Script for computing confidence metrics based on the defined semantic sets.
 Current metrics include:
 - Semantic entropy
