@@ -1,0 +1,21 @@
+These are 5 example question and answer pairs:
+
+Question: A woman who is rhesus negative undergoes amniocentesis at 16 weeks. What dose of anti D immunoglobulin should she receive immediately after the procedure?
+Answer: 1500IU
+
+Question: You have just examined a 28-year-old primigravida in spontaneous labour. Examination findings are 0/5 palpable per abdomen, cervix is 7 cm dilated, cephalic presentation, -1 station, anterior fontanelle palpable with orbital ridges and nasal bridge felt anteriorly. What is the presenting diameter of the fetus?
+Answer: Mentovertical
+
+Question: A 21-year-old woman, who is known to have beta thalassemia major, attends the clinic for preconception counselling. What is the most relevant initial pre-pregnancy investigation to predict maternal complications of pregnancy?
+Answer: Echocardiogram
+
+Question: A 34-year-old woman complains of heavy periods. She is trying to get pregnant so you prescribe mefenamic acid for her, knowing it is very effective in reducing the blood flow. What type of drug is this?
+Answer: Cyclo-oxygenase inhibitor
+
+Question: A 30-year-old woman presents to the infertility clinic with primary infertility and dysmenorrhoea and is found on ultrasound to have a 6 cm endometrioma in the left ovary. What is the most appropriate initial management?
+Answer: Laparoscopic drainage of the endometrioma
+
+Please answer the following question in the same manner as the previous questions.
+
+Question: {question} 10 words or less
+Answer:

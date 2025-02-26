@@ -1,0 +1,12 @@
+matplotlib
+notebook
+numpy
+openai
+pandas
+torch
+tqdm
+transformers
+protobuf
+sentencepiece
+joblib
+seaborn

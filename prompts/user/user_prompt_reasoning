@@ -1,0 +1,17 @@
+These are 3 example question, reasoning, and answer objects:
+
+Question: A 21-year-old woman, who is known to have beta thalassemia major, attends the clinic for preconception counselling. What is the most relevant initial pre-pregnancy investigation to predict maternal complications of pregnancy?
+Reasoning: Pregnancy causes significant changes in blood volume, heart rate and cardiac output. Higher rates of cardiac complications have been reported in women with beta thalassemia major.
+Answer: Echocardiogram
+
+Question: A 34-year-old woman complains of heavy periods. She is trying to get pregnant so you prescribe mefenamic acid for her, knowing it is very effective in reducing the blood flow. What type of drug is this?
+Reasoning: Mefenamic acid inhibits the production in intracellular prostaglandins, but also the tissue response to prostaglandins. It does this via COX inhibition.
+Answer: Cyclo-oxygenase inhibitor
+
+Question: A 30-year-old woman presents to the infertility clinic with primary infertility and dysmenorrhoea and is found on ultrasound to have a 6 cm endometrioma in the left ovary. What is the most appropriate initial management?
+Reasoning: Ovarian endometrioma can impair ovarian reserve by spatial occupation influences, local reaction or both. Surgical removal or drainage of the lesion can improve ovarian function and therefore fertility.
+Answer: Laparoscopic drainage of the endometrioma
+
+Complete the following question in the same format as the previous questions.
+
+Question: {question}. Explain your reasoning in 3 sentences or less, and answer in 10 words or less.

@@ -1,0 +1,6 @@
+data/*
+*.pkl
+logs/*
+__pycache__
+entailment.ipynb
+archive/data/*
