@@ -1,7 +1,6 @@
 # Reducing Large Language Model Safety Risks in Women's Health using Semantic Entropy
 
 ## Understanding the codebase
-A description of the key files and data types.
 
 ### generate.py
 This file performs question inference.
